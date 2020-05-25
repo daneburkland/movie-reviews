@@ -1,4 +1,6 @@
-A movie review fetching app. The goal of this project is to illustrate the basics of using explicit state machines in React.
+A movie review fetching app. This app is meant to illustrate the basics of using explicit state machines in React: http://afforded.space/state-machines-in-react/
+
+Demo: https://movie-reviews.netlify.app/
 
 In the project directory, you can run:
 
